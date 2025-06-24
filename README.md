@@ -6,7 +6,6 @@ git clone https://github.com/Xuanxuan123456789/cartpole.git
 conda create --name cartpole python=3.8
 conda activate cartpole
 conda install pytorch torchvision torchaudio pytorch-cuda=12.1 -c pytorch -c nvidia
-pip install
 pip install tensorboard six
 ```
 
