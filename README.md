@@ -1,4 +1,4 @@
-# cartpole
+# cartpole(using raisim)
 
 ### Training Environment Installation
 ```
